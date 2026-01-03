@@ -96,7 +96,7 @@ const Index = () => {
       <div className="header">
         <h3 className="title">Aanwezigheidsregister OLVI Pulhof</h3>
         <div>
-          <img src="/images/logo.png" alt="" />
+          <img className="logo" src="/images/logo.png" alt="" />
         </div>
       </div>
       <form className="form" action="">
