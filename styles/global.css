@@ -156,6 +156,9 @@ body {
         flex-direction: column;
         margin-bottom: 20px;
     }
+    .title{
+        font-size: 20pt;
+    }
     .logocontainer{
         width: 50%;
     }
