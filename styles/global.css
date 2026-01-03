@@ -169,3 +169,12 @@ body {
         font-size: 18pt;
     }
 }
+@media screen and (max-width: 320px){
+    
+    .title{
+        font-size: 16pt;
+    }
+    .inputField{
+        font-size: 11pt;
+    }
+}
