@@ -25,6 +25,7 @@ body {
     font-size: 36pt;
     font: Roboto;
     color: #00356d;
+    width: fit-content;
 }
 .logocontainer{
     display: flex;
