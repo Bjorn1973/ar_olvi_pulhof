@@ -126,9 +126,16 @@ body {
     .title{
         font-size: 32pt;
     }
+    .form{
+        width: 40%;
+    }
+}
+@media screen and (max-width: 950px){
+    .title{
+        font-size: 30pt;
+    }
     
 }
-
 @media screen and (max-width: 915px){
     .title{
         font-size: 28pt;
