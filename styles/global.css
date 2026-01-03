@@ -24,7 +24,7 @@ body {
 .title{
     font-size: 36pt;
     font: Roboto;
-    color:darkblue
+    color: #00356d;
 }
 .form{
     display: flex;
@@ -37,26 +37,26 @@ body {
     margin-bottom:5px ;
     padding: 15px 20px;
     font-size: 14pt;
-    border: 1.5px solid darkblue;
+    border: 1.5px solid #00356d;
     border-radius: 4px;
     outline: none;
 }
 .inputField:focus{
     background-color: aliceblue;
-    border: 3px solid darkblue;
+    border: 3px solid #00356d;
 
 }
 ::placeholder{
-    color: darkblue;
+    color: #00356d;
     opacity: 0.4;
 }
 .addButton:disabled{
     padding: 15px 20px;
     font-size: 14pt;
     border-radius: 4px;
-    border: 1.5px solid darkblue;
+    border: 1.5px solid #00356d;
     background-color: aliceblue;
-    color: darkblue;
+    color: #00356D;
     opacity: 0.4;
     cursor:not-allowed ;
 }
@@ -78,7 +78,7 @@ body {
     width: 100%;
 }
 .listTitle{
-    color:darkblue;
+    color:#00356D;
     font-size: 16pt;
 
 }
@@ -109,7 +109,7 @@ body {
     fill:white;
 }
 .substitute{
-    color:darkblue;
+    color:#00356D;
     font-size: 14pt;
 }
 
