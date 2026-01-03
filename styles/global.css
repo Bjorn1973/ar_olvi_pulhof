@@ -30,7 +30,7 @@ body {
 .logocontainer{
     display: flex;
     justify-content: center;
-    width: max-content;
+    width:min-content;
 }
 .logo{
     width: 50%;
