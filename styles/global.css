@@ -91,7 +91,7 @@ body {
 .listTitle{
     color:#00356D;
     font-size: 16pt;
-text-align: center;
+    text-align: center;
 }
 .listItem{
     display: flex;
@@ -189,6 +189,9 @@ text-align: center;
         font-size: 16pt;
     }
     .inputField{
+        font-size: 11pt;
+    }
+    .addButton{
         font-size: 11pt;
     }
 }
