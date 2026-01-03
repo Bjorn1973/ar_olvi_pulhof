@@ -94,7 +94,7 @@ const Index = () => {
   return (
     <div>
       <div className="header">
-        <h3 className="title">Aanwezigheidsregister Triangel</h3>
+        <h3 className="title">Aanwezigheidsregister OLVI Pulhof</h3>
         <div>
           <img src="/images/logo.png" alt="" />
         </div>
