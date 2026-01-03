@@ -194,4 +194,7 @@ body {
     .addButton,.addButton:disabled{
         font-size: 11pt;
     }
+    .substitute{
+        font-size: 11pt;
+    }
 }
