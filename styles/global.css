@@ -25,12 +25,12 @@ body {
     font-size: 36pt;
     font: Roboto;
     color: #00356d;
-    width: max-content;
+    width: 75%;
 }
 .logocontainer{
     display: flex;
     justify-content: center;
-    width:min-content;
+    width:25%;
 }
 .logo{
     width: 50%;
