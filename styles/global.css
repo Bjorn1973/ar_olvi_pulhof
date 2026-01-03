@@ -26,6 +26,10 @@ body {
     font: Roboto;
     color: #00356d;
 }
+.logo{
+    width: 50%;
+    height: auto;
+}
 .form{
     display: flex;
     flex-direction: column;
