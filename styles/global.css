@@ -122,6 +122,12 @@ body {
     color:#00356D;
     font-size: 14pt;
 }
+@media screen and (max-width: 1035px){
+    .title{
+        font-size: 32pt;
+    }
+    
+}
 
 @media screen and (max-width: 915px){
     .title{
