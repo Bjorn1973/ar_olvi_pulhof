@@ -151,3 +151,9 @@ body {
         width: 65%;
     }
 }
+@media screen and (max-width: 550px){
+    .header{
+        flex-direction: column;
+        margin-bottom: 20px;
+    }
+}
