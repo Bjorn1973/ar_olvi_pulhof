@@ -191,7 +191,7 @@ body {
     .inputField{
         font-size: 11pt;
     }
-    .addButton{
+    .addButton,.addButton:disabled{
         font-size: 11pt;
     }
 }
