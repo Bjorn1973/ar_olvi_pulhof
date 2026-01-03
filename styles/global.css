@@ -156,4 +156,7 @@ body {
         flex-direction: column;
         margin-bottom: 20px;
     }
+    .logocontainer{
+        width: 50%;
+    }
 }
